@@ -1,6 +1,6 @@
 # 🧠 TrackZen – All-in-One Productivity App
 
-**TrackZen** is a personal productivity companion I built to manage everything in one place — tasks, notes, and workouts. I always found it frustrating to switch between different apps just to stay organized, so I created this all-in-one tool to simplify it.
+**TrackZen** is a personal productivity companion, built to manage everything in one place — tasks, notes, and workouts. I always found it frustrating to switch between different apps just to stay organized, so created this all-in-one tool to simplify it.
 
 With TrackZen, you can:
 - Manage daily tasks 🗂️
