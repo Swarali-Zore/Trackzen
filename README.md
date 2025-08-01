@@ -1,6 +1,6 @@
 # 🧠 TrackZen – All-in-One Productivity App
 
-**TrackZen** is a personal productivity companion, built to manage everything in one place — tasks, notes, and workouts. I always found it frustrating to switch between different apps just to stay organized, so created this all-in-one tool to simplify it.
+**TrackZen** is a smart, unified platform designed to simplify your daily routine by combining task management, note-taking, and fitness tracking, all in one place. Instead of juggling multiple apps for your to-do lists, personal notes, and workouts, TrackZen helps you stay focused and organized through a clean, responsive dashboard.
 
 With TrackZen, you can:
 - Manage daily tasks 🗂️
@@ -48,16 +48,6 @@ Most of us use separate apps for to-dos, notes, and fitness tracking. It becomes
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Tools**: XAMPP, phpMyAdmin
-
----
-
-## 🛠️ How to Run the Project (Using XAMPP)
-
-1. Clone or download the project.
-2. Move the folder to `htdocs` inside your XAMPP directory.
-3. Start **Apache** and **MySQL** from XAMPP Control Panel.
-4. Open your browser and go to: `http://localhost/TrackZen`
-5. Use **phpMyAdmin** to import the `.sql` file and create the database.
 
 ---
 
