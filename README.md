@@ -62,7 +62,8 @@ Most of us use separate apps for to-dos, notes, and fitness tracking. It becomes
 - **Workout Tracker**
 - **Notepad Section**
 - **Activity Tracker View**
-  !https://github.com/Swarali-Zore/Trackzen/blob/main/Screenshots/activities.png
+  
+  ![activities](https://github.com/Swarali-Zore/Trackzen/blob/main/Screenshots/activities.png)
 
 ---
 
