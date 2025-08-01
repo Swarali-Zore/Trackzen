@@ -53,7 +53,7 @@ Most of us use separate apps for to-dos, notes, and fitness tracking. It becomes
 
 ## 📸 Screenshots
  
-- **User Dashboard**
+- **Activity Tracker**
   ![frontpages](https://github.com/Swarali-Zore/Trackzen/blob/main/Screenshots/frontpage.png)
 - **To-Do List Module**
 
@@ -64,7 +64,7 @@ Most of us use separate apps for to-dos, notes, and fitness tracking. It becomes
 - **Notepad Section**
   ![Notepad](https://github.com/Swarali-Zore/Trackzen/blob/main/Screenshots/notepad.png)
   
-- **Activity Tracker View**
+- **User Dashboard View**
   
   ![activities](https://github.com/Swarali-Zore/Trackzen/blob/main/Screenshots/activities.png)
 
