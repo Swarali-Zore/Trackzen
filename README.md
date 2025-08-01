@@ -56,11 +56,15 @@ Most of us use separate apps for to-dos, notes, and fitness tracking. It becomes
 > *(Replace these with actual images if uploading to GitHub)*
 
 - **Login Page**
+
+  ![frontpages](https://github.com/Swarali-Zore/Trackzen/blob/main/Screenshots/frontpage.png)
 - 
 - **User Dashboard**
 - **To-Do List Module**
 - **Workout Tracker**
 - **Notepad Section**
+
+  
 - **Activity Tracker View**
   
   ![activities](https://github.com/Swarali-Zore/Trackzen/blob/main/Screenshots/activities.png)
